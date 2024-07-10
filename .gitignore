@@ -9,6 +9,9 @@
 .env.development
 .env.production
 
+# VSCode
+.vscode
+
 
 # Logs
 logs
